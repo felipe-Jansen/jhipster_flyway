@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.felipejansen.jhipster_flyway",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.7.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster_flyway",
+    "packageName": "com.felipejansen.jhipster_flyway",
+    "packageFolder": "com/felipejansen/jhipster_flyway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGU3ZDM3NjM1MTYxMGZlYzc3NTVlMzM1ZTkwOTZhZmNkNjJkMTRkNDY5NTNhYjlkMzNlYmRlNDBkNTU2OTUyZDYyMzFhMDljMWUyYTM5ZTgzMzIxNTg2MGVhYTQ0MTBjZWJiZGNlYzViZWQ0MTRiM2I3NWI3ODFkYWUyZjYyODE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1581466705624,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": ["pt-br"],
+    "blueprints": []
+  }
+}
