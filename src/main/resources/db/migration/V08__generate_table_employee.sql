@@ -1,5 +1,5 @@
 create table employee(
-     id bigint not null constraint department_pkey primary key,
+     id bigint not null constraint employee_pkey primary key,
      first_name varchar(255),
      last_name varchar(255),
      email varchar(255),

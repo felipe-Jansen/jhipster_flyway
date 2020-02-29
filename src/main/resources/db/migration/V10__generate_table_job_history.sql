@@ -3,5 +3,6 @@ create table job_history(
     start_date timestamp,
     end_date timestamp,
     language varchar(255)
+
 );
 
