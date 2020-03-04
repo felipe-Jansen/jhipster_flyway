@@ -4,6 +4,6 @@ O JHipster é um gerador de projetos, ele gera a base de dados utilizando uma fe
 
 # Executando
     - Baixe uma cópia no seu computador
-    - Inicialize a base de dados, vá até a pasta Docker e rode "sudo docker-compose -f postgre.yml up"
+    - Inicialize a base de dados, vá até a pasta Docker e rode "sudo docker-compose -f postgresql.yml up"
     - Inicialize a API (./mvnw)
     - Inicialize o Frontend (npm start)
